@@ -1,1 +1,1 @@
-# Counter
+https://aformation.github.io/JS-Counter/
